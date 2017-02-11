@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    <img src="{{asset('img/uicreative.png')}}"></img>
+                    <img src="{{asset('img/UICreative.png')}}"></img>
                 </div>
             </div>
         </div>
