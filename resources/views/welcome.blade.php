@@ -13,7 +13,7 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #fff;
+                background-color: #484D6D;
                 color: #636b6f;
                 font-family: 'Raleway', sans-serif;
                 font-weight: 100;
@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    UICreative
+                    <img src="img/uicreative.png"></img>
                 </div>
             </div>
         </div>
